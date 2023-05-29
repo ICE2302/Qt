@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>login/bg.png</file>
+        <file>login/denglu.png</file>
+        <file>login/ganrao.png</file>
+        <file>login/ganraoh.png</file>
+        <file>login/leida.png</file>
+        <file>login/leidah.png</file>
+        <file>login/sar.png</file>
+        <file>login/sarh.png</file>
+        <file>login/tongxin.png</file>
+        <file>login/tongxinh.png</file>
+        <file>login/zongkong.png</file>
+        <file>login/zongkongh.png</file>
+    </qresource>
+</RCC>
